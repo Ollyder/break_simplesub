@@ -1,22 +1,22 @@
 # break_simplesub
 
-µ¥»ú¼òµ¥Ìæ»»ÃÜÂëÆÆ½â
+å•æœºç®€å•æ›¿æ¢å¯†ç ç ´è§£
 
-## À´Ô´
+## æ¥æº
 
-http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/[http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/]
+http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/
  
 
-## ÓïÑÔ
+## è¯­è¨€
 
 Python 2.x
 
 
-## ºóĞø
+## åç»­
 
-Í¨¶ÁÔ´Âëºó¸ÄÎªPython 3°æ±¾²¢ÒÆÖ²µ½CTF_tool
+é€šè¯»æºç åæ”¹ä¸ºPython 3ç‰ˆæœ¬å¹¶ç§»æ¤åˆ°CTF_tool
 
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-½«ĞèÒª½âÃÜµÄÃÜÂë¸´ÖÆµ½Ö÷º¯ÊıctextÖĞ£¬²¢½«×¢ÊÍÈ¡Ïû¡£¸ù¾İĞèÒªÊ¹ÓÃ²»Í¬µÄ²Î¿¼ÎÄ±¾ÎÄµµ
+å°†éœ€è¦è§£å¯†çš„å¯†ç å¤åˆ¶åˆ°ä¸»å‡½æ•°ctextä¸­ï¼Œå¹¶å°†æ³¨é‡Šå–æ¶ˆã€‚æ ¹æ®éœ€è¦ä½¿ç”¨ä¸åŒçš„å‚è€ƒæ–‡æœ¬æ–‡æ¡£
